@@ -42,7 +42,7 @@ I'm a passionate Computer Science Engineering student at ENICarthage, specializi
    - AI-powered email generation using OpenAI API
 
 ## 📊 GitHub Stats
-![Fakhreddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Fakhreddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakhreddineDdhifallah&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
