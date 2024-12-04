@@ -52,7 +52,7 @@ I'm a passionate Computer Science Engineering student at ENICarthage, specializi
    - Real-time updates via WebSocket
    - Integrated secure payment gateway
 
-2. **TransporTN** - Public Transportation App
+2. **Anava** - Public Transportation App
    - React Native mobile application
    - CI/CD with GitHub Actions
    - Azure container deployment
