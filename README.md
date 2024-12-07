@@ -1,7 +1,7 @@
 # Hi there, I'm Fakhreddine Dhifallah! 👋
 
 ## 🚀 About Me
-I'm a passionate Computer Science Engineering student at ENICarthage, specializing in full-stack development and cloud technologies. My journey is driven by innovative problem-solving and a continuous learning mindset.
+I'm so f*ckin important right?.
 
 ## 🛠 Tech Stack
 ### Programming Languages
