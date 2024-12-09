@@ -1,7 +1,7 @@
-# Hi there, I'm Fakhreddine Dhifallah! 👋
+
 
 ## 🚀 About Me
-I'm so f*ckin important right?.
+
 
 ## 🛠 Tech Stack
 ### Programming Languages
