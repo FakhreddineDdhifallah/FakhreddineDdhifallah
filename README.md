@@ -1,4 +1,4 @@
-
+"think like a noob  , your a noob"   --GeoHotz
 ## 🛠 Tech Stack
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
